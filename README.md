@@ -4,31 +4,31 @@ A few rules for adding the references here:
   - I read it
   - It helped
 
-# Cron Jobs
+## Cron Jobs
   - [How To Add Jobs To cron Under Linux or UNIX](https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/)
 
-# Databases
+## Databases
   - [How to Set-Up Master-Slave Replication for PostgreSQL 9.6 on Ubuntu 16.04](https://www.howtoforge.com/tutorial/how-to-set-up-master-slave-replication-for-postgresql-96-on-ubuntu-1604/)
   - [PostgreSQL Python: Insert Data Into a Table](http://www.postgresqltutorial.com/postgresql-python/insert/)
   - [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
 
-# Servers
+## Servers
   - [An Introduction to HAProxy and Load Balancing Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
   - [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols#protocols)
   - [5 Common Server Setups For Your Web Application](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
   - [An Introduction to Cloud-Config Scripting](https://www.digitalocean.com/community/tutorials/an-introduction-to-cloud-config-scripting)
 
-# NGINX
+## NGINX
   - [Nginx+Flask+Postgres multi-container setup with Docker Compose](http://www.ameyalokare.com/docker/2017/09/20/nginx-flask-postgres-docker-compose.html)
 
 
-# Python
+## Python
   - [PostgreSQL Python: Insert Data Into a Table](http://www.postgresqltutorial.com/postgresql-python/insert/)
   - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
   - [Introduction to Recurrent Neural Networks in Pytorch](https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/)
   - [Make Pandas faster by replacing one line of your code](https://rise.cs.berkeley.edu/blog/pandas-on-ray/)
 
-# Flask
+## Flask
   - [flask-oauthlib example for Google](https://github.com/lepture/flask-oauthlib/blob/master/example/google.py)
   - [Maximizing Python Performance with NGINX, Part 1: Web Serving and Caching](https://www.nginx.com/blog/maximizing-python-performance-with-nginx-parti-web-serving-and-caching/)
   - [Microservices - Why are microservices getting so much buzz?](https://www.fullstackpython.com/microservices.html)
@@ -40,31 +40,31 @@ A few rules for adding the references here:
   - [Nginx+Flask+Postgres multi-container setup with Docker Compose](http://www.ameyalokare.com/docker/2017/09/20/nginx-flask-postgres-docker-compose.html)
   - [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
 
-# Oauth
+## Oauth
   - [OAuth 2.0 Server PHP - Step-By-Step Walkthrough](https://bshaffer.github.io/oauth2-server-php-docs/cookbook/)
 
 
-# Google API
+## Google API
 
 
-# D3.js
+## D3.js
   - [https://github.com/sgratzl/d3tutorial#dev-environment](https://github.com/sgratzl/d3tutorial#dev-environment)
   - [Data-Driven Documents (d3.js) tutorials](https://www.fullstackpython.com/d3-js.html)
 
-# Vue.js
+## Vue.js
   - [Single Page Apps with Vue.js and Flask: Deployment](https://stackabuse.com/single-page-apps-with-vue-js-and-flask-deployment/)
   - [Basic Single Page application using Vue.js and Firebase — Part 1](https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228?ref=madewithvuejs.com)
 
-# Remote Desktop
+## Remote Desktop
   - [Setup VNC Server on Ubuntu: Complete Ubuntu Remote Desktop Guide](https://www.smarthomebeginner.com/setup-vnc-server-on-ubuntu-linux/)
 
-# Version Control
+## Version Control
   - [Be Nice And Write Stable Code](http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html)
 
-# Docker
+## Docker
   - [Cloning Docker data volumes](https://www.guidodiepen.nl/2016/05/cloning-docker-data-volumes/)
   - [Moving Docker Container Data Around](http://blog.diovani.com/technology/2017/06/24/moving-docker-containers-data.html)
   - [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
 
-# Blockchain
+## Blockchain
   - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
