@@ -11,6 +11,7 @@ A few rules for adding the references here:
   - [How to Set-Up Master-Slave Replication for PostgreSQL 9.6 on Ubuntu 16.04](https://www.howtoforge.com/tutorial/how-to-set-up-master-slave-replication-for-postgresql-96-on-ubuntu-1604/)
   - [PostgreSQL Python: Insert Data Into a Table](http://www.postgresqltutorial.com/postgresql-python/insert/)
   - [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
+  - [Code changes in version 10](https://www.postgresql.org/docs/10/static/app-pgbasebackup.html)
 
 ## Servers
   - [An Introduction to HAProxy and Load Balancing Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
@@ -27,6 +28,7 @@ A few rules for adding the references here:
   - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
   - [Introduction to Recurrent Neural Networks in Pytorch](https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/)
   - [Make Pandas faster by replacing one line of your code](https://rise.cs.berkeley.edu/blog/pandas-on-ray/)
+  - [OAuth Authentication with Flask](https://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
 
 ## Flask
   - [flask-oauthlib example for Google](https://github.com/lepture/flask-oauthlib/blob/master/example/google.py)
@@ -42,13 +44,15 @@ A few rules for adding the references here:
 
 ## Oauth
   - [OAuth 2.0 Server PHP - Step-By-Step Walkthrough](https://bshaffer.github.io/oauth2-server-php-docs/cookbook/)
+  - [What You Need To Know About OAuth2 And Logging In With Facebook](https://www.smashingmagazine.com/2017/05/oauth2-logging-in-facebook/)
 
 
 ## Google API
-
+  - [Authenticate with a backend server](https://developers.google.com/identity/sign-in/web/backend-auth)
+  - [OAuth Authentication with Flask](https://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
 
 ## D3.js
-  - [https://github.com/sgratzl/d3tutorial#dev-environment](https://github.com/sgratzl/d3tutorial#dev-environment)
+  - [D3 Tutorial](https://github.com/sgratzl/d3tutorial#dev-environment)
   - [Data-Driven Documents (d3.js) tutorials](https://www.fullstackpython.com/d3-js.html)
 
 ## Vue.js
