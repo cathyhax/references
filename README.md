@@ -29,6 +29,10 @@ A few rules for adding the references here:
   - [Introduction to Recurrent Neural Networks in Pytorch](https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/)
   - [Make Pandas faster by replacing one line of your code](https://rise.cs.berkeley.edu/blog/pandas-on-ray/)
   - [OAuth Authentication with Flask](https://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
+  - [Downloading and unzipping a .zip file without writing to disk](https://stackoverflow.com/questions/5710867/downloading-and-unzipping-a-zip-file-without-writing-to-disk)
+  - [Check if a file exists](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists?rq=1)
+  - [Python Logging Tutorial](http://www.patricksoftwareblog.com/python-logging-tutorial/)
+
 
 ## Flask
   - [flask-oauthlib example for Google](https://github.com/lepture/flask-oauthlib/blob/master/example/google.py)
