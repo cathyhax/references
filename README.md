@@ -32,6 +32,7 @@ A few rules for adding the references here:
   - [Downloading and unzipping a .zip file without writing to disk](https://stackoverflow.com/questions/5710867/downloading-and-unzipping-a-zip-file-without-writing-to-disk)
   - [Check if a file exists](https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists?rq=1)
   - [Python Logging Tutorial](http://www.patricksoftwareblog.com/python-logging-tutorial/)
+  - [Python Classes Best Practices](https://gist.github.com/sloria/7001839)
 
 
 ## Flask
